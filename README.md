@@ -46,7 +46,7 @@
 ---
 
 ## 🌐 외부 URL
-- [[Streamlit Cloud 배포 링크](https://streamlit.io/예시링크)](http://localhost:8501/)
+- https://app-kbo4cyih7yt9yaevhmvdox.streamlit.app/
 
 ---
 
