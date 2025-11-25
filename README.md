@@ -46,16 +46,9 @@
 ---
 
 ## 🌐 외부 URL
-- [Streamlit Cloud 배포 링크](https://streamlit.io/예시링크)
+- [[Streamlit Cloud 배포 링크](https://streamlit.io/예시링크)](http://localhost:8501/)
 
 ---
 
-## 💻 코드
-- 모든 분석 및 시각화 코드는 본 Repository에 포함되어 있습니다.
-- 주요 파일:
-  - `data_preprocessing.py` → 데이터 전처리
-  - `eda.ipynb` → 탐색적 데이터 분석
-  - `modeling.py` → 예측 모델링
-  - `app.py` → Streamlit 배포용 코드
+#다
 
----
