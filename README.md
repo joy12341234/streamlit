@@ -35,7 +35,7 @@
 ---
 
 ## 🎥 시연 동영상
-- [YouTube 시연 영상 링크](https://youtube.com/예시링크)
+- https://youtu.be/SyGf7eKbetY?si=8H45HxBQ8plDuHiw
 
 ---
 
